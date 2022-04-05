@@ -1,4 +1,4 @@
 ----------
-Makroscopic description on soil norm: 14688
+Makroscopic description of soil norm: 14688
 ----------
 * Change as OOP and Finish
